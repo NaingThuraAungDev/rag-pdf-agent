@@ -28,21 +28,21 @@ Retrieval-Augmented Generation (RAG) agent for working with PDF documents. Load,
  - Run the main application:
    - For CLI:
      ```bash
-     python main.py
+     python -m uvicorn main:app
+     ```
+     For Inngest server:
+     ```bash
+     npx inngest-cli@latest dev -u http://127.0.0.1:8000/api/inngest
      ```
    - For Streamlit app:
      ```bash
      streamlit run streamlit_app.py
      ```
 ## Configuration
-- Edit configuration variables in the code as needed (e.g., file paths, model settings).
 - Set any required environment variables before running.
 
 ## File Structure
 ...
-## Contributing
- - Pull requests are welcome.
- - For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 MIT License. See LICENSE file for details.
