@@ -1,0 +1,13 @@
+fastapi
+inngest
+llama-index-core
+llama-index-readers-file
+python-dotenv
+qdrant-client
+uvicorn
+streamlit
+google-genai
+langchain 
+langchain-google-genai
+langchain-community
+pydantic
