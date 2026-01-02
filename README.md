@@ -50,9 +50,12 @@ MIT License. See LICENSE file for details.
 ## Contact / Support
 For questions or support, please open an issue in this repository.
 
-## Acknowledgements
-- Inspired by open-source RAG and PDF processing projects.
-# PDF Analyzer
+# References
 
+- [Inngest](https://www.inngest.com/docs/apps)
+- [Qdrant](https://api.qdrant.tech/api-reference/search/query-points)
+- [LlamaIndex](https://www.llamaindex.ai/)
+- [LangChain](https://docs.langchain.com/oss/python/integrations/chat/google_generative_ai)
+# PDF Analyzer
 
 <img width="713" height="822" alt="rag-ss-1" src="https://github.com/user-attachments/assets/2182041f-1044-419b-b6d9-4b8a31bb78d8" />
