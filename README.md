@@ -58,6 +58,7 @@ For questions or support, please open an issue in this repository.
 - [LangChain](https://docs.langchain.com/oss/python/integrations/chat/google_generative_ai)
 # PDF Analyzer
 
-<img width="829" height="541" alt="image" src="https://github.com/user-attachments/assets/9858a530-1017-4761-9453-45e5a12d5080" />
+<img width="767" height="621" alt="image" src="https://github.com/user-attachments/assets/ed5446c9-8d52-44c7-b825-10d9d027797a" />
+
 
 <img width="713" height="822" alt="rag-ss-1" src="https://github.com/user-attachments/assets/2182041f-1044-419b-b6d9-4b8a31bb78d8" />
